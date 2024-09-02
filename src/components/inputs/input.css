@@ -1,0 +1,38 @@
+.input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 5px 0 0 5px;
+  border: solid 1px gray;
+  font-family: Arial;
+  font-size: 16px;
+}
+.input:focus,
+.btn:focus {
+  outline: 1px solid #4169e1;
+}
+.label {
+  margin: 10px 20px;
+  font-family: Arial;
+  font-size: 16px;
+}
+.label > div {
+  display: flex;
+}
+.label > span {
+  color: #101720;
+}
+.eye {
+  display: flex;
+  align-items: center;
+  border: solid 1px gray;
+  border-radius: 0 5px 5px 0;
+  text-align: center;
+  cursor: pointer;
+}
+.eye img {
+  width: 18px;
+}
+.label progress {
+  width: 100%;
+}

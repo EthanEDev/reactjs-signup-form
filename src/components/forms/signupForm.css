@@ -1,0 +1,22 @@
+form {
+  max-width: 768px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  border: solid 1px grey;
+  border-radius: 5px;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+  background-color: ghostwhite;
+  box-shadow: 5px 5px 5px gray;
+}
+h3, .login {
+  margin: 20px;
+  font-family: Arial;
+  color: #101720;
+}
+.login {
+    align-self: center;
+    font-size: 14px;
+    display: inline;
+}

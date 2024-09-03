@@ -2,6 +2,10 @@
 
 A user-friendly signup form built with React.js. This project demonstrates form handling, validation, and state management in React.
 
+## Screenshot
+
+![Signup Form Screenshot](./screenshot.png)  <!-- Replace with the path to your screenshot image -->
+
 ## Live Demo
 
 You can try out the live demo of this project [here](https://reactjs-signup-form-weld.vercel.app/).
@@ -41,6 +45,8 @@ To get started with the project locally, follow these steps:
     npm start
     ```
 
+    The application should now be running on [http://localhost:3000](http://localhost:3000).
+
 ## Usage
 
 Once the application is running, you can use the following features:
@@ -71,4 +77,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, feel free to reach out to me via GitHub issues.
+If you have any questions, feel free to reach out to me via GitHub issues or at [ethan.ekhtiyar@gmail.com](mailto:ethan.ekhtiyar@gmail.com).

@@ -4,7 +4,7 @@ A user-friendly signup form built with React.js. This project demonstrates form 
 
 ## Live Demo
 
-You can try out the live demo of this project [here](https://reactjs-signup-form.vercel.app/).
+You can try out the live demo of this project [here](https://reactjs-signup-form-weld.vercel.app/).
 
 ## Features
 
@@ -41,8 +41,6 @@ To get started with the project locally, follow these steps:
     npm start
     ```
 
-    The application should now be running on [http://localhost:3000](http://localhost:3000).
-
 ## Usage
 
 Once the application is running, you can use the following features:
@@ -73,4 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, feel free to reach out to me via GitHub issues or at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, feel free to reach out to me via GitHub issues.

@@ -19,7 +19,9 @@ You can try out the live demo of this project [here](https://reactjs-signup-form
 
 ## Installation
 
-To get started with the project locally, follow these steps:
+### Using Create React App
+
+To get started with the project locally using Create React App, follow these steps:
 
 1. **Clone the repository:**
 
@@ -45,7 +47,33 @@ To get started with the project locally, follow these steps:
     npm start
     ```
 
-    The application should now be running on [http://localhost:3000](http://localhost:3000).
+### Using Vite
+
+If the project uses Vite instead of Create React App, follow these steps:
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/EthanEDev/reactjs-signup-form.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd reactjs-signup-form
+    ```
+
+3. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+4. **Start the development server:**
+
+    ```bash
+    npm run dev
+    ```
 
 ## Usage
 

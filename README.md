@@ -1,4 +1,4 @@
-# ReactJS Component: Signup Form
+# ReactJS Signup Form Component
 
 A user-friendly signup form built with React.js. This project demonstrates form handling, validation, and state management in React.
 
